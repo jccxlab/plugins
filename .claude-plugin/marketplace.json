@@ -1,0 +1,13 @@
+{
+  "name": "April-plugins",
+  "owner": {
+    "name": "April"
+  },
+  "plugins": [
+    {
+      "name": "wk-review",
+      "source": "./plugins/wk-review",
+      "description": "iOS工程 Objc/Swift 代码审核"
+    }
+  ]
+}
