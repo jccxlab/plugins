@@ -21,6 +21,19 @@
 - 只读操作，不自动修改代码
 - 多种 diff 范围支持（staged / unstaged / branch / commit）
 
+## 安装
+
+```bash
+# 添加 april-plugins 插件市场
+/plugin marketplace add https://github.com/jccxlab/plugins.git
+
+# 安装 wk-review 插件
+/plugin install wk-review@april-plugins
+
+# 重新加载插件使其生效
+/reload-plugins
+```
+
 ## 使用
 
 ```bash
